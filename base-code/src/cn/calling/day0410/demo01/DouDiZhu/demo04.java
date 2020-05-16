@@ -15,6 +15,7 @@ import java.util.List;
 
 public class demo04 {
     public static void main(String[] args) {
+        Test();
         //1、准备牌
         //创建一个map集合，存储牌的索引和组装好的牌
         HashMap<Integer,String> poker=new HashMap<>();
@@ -77,5 +78,6 @@ public class demo04 {
     private  static  void  Test()
     {
         System.out.println("测试Git");
+        System.out.println("请改善");
     }
 }
