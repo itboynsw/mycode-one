@@ -74,4 +74,8 @@ public class demo04 {
         }
         System.out.println();
     }
+    private  static  void  Test()
+    {
+        System.out.println("测试Git");
+    }
 }
